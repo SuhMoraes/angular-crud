@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.9
+    },
+    {
+      "id": 2,
+      "name": "Caderno Universitário",
+      "price": 15
+    },
+    {
+      "id": 3,
+      "name": "Fones de Ouvido Bluetooth",
+      "price": 89.99
+    },
+    {
+      "id": 4,
+      "name": "Conjunto de Marcadores Coloridos",
+      "price": 12.5
+    },
+    {
+      "name ": "Smartphone",
+      "price": "3599",
+      "id": 5
+    }
+  ]
+}
